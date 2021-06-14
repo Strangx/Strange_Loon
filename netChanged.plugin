@@ -1,2 +1,2 @@
 [Script]
-network-changed script-path= https://raw.githubusercontent.com/Strangx/Strange_Loon/main/netChanged.js
+network-changed script-path= Auto_Policy.js
